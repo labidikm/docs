@@ -4,7 +4,7 @@ You need to have a DTube account and log in with it, then you need to go to **My
 
 <center>
 
-![](https://i.imgur.com/43DWatQ.png)
+![](https://raw.githubusercontent.com/labidikm/docs/master/gnoes.jpg)
 
 </center>
 
